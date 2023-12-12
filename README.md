@@ -4,11 +4,13 @@
 
 👋 Hey there! 👨‍💻 Welcome to my corner of the internet. I'm a code enthusiast on a mission to turn ideas into reality. Dive into my GitHub repositories to discover the projects I'm tinkering with. Whether it's fixing bugs or adding new features, every commit is a step in the coding adventure. Let's explore the world of possibilities together! 🌐
 
-<a href="https://github.com/samarpan-rai11/Simple-View-Counter">
-<img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=samarpan-rai11&label=Profile%20views&color=yellow&style=for-the-        badge"/></a>
 
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=samarpan-rai11&label=Profile%20views&color=0e75b6&style=flat" alt="samarpan-rai" /> 
+  
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarpan-rai-809a5a293/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/samarpan__rai)
+</p>
 <br>
 
 ---
