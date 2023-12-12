@@ -2,7 +2,7 @@
 
 <!--
 **samarpan-rai11/samarpan-rai11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://komarev.com/ghpvc/?username=samarpan-rai11&color=yellow&style=plastic)
+[![Image of https://github.com/samarpan-rai11/my-profile-views-counter](https://github.com/samarpan-rai11/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/samarpan-rai11/my-profile-views-counter)
 
 Here are some ideas to get you started:
 
