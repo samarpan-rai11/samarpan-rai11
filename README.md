@@ -25,8 +25,8 @@ img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.
 <br />
 
 
-🔭 I’m currently working on Django <br>
-🌱 I’m currently learning ML
+### 🔭 I’m currently working on Django <br>
+### 🌱 I’m currently learning ML
 
 
 [![Samarpan’s github stats](https://github-readme-stats.vercel.app/api?username=samarpan-rai11)](https://github.com/samarpan-rai11)
