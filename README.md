@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Samarpan’s github stats](https://github-readme-stats.vercel.app/api?username=samarpan-rai11)](https://github.com/samarpan-rai11)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samarpan-rai11&layout=compact)](https://github.com/samarpan-rai11)
+
