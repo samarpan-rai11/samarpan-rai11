@@ -24,8 +24,9 @@ img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 
-
+<br/>
 🔭 I’m currently working on Django
+<br/>
 🌱 I’m currently learning ML
 
 
