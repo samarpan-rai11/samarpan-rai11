@@ -2,13 +2,12 @@
 
 **`Developer`**
 
-<p>
-  <a href="https://github.com/samarpan-rai11/Simple-View-Counter">
+<a href="https://github.com/samarpan-rai11/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=samarpan-rai11&label=Profile%20views&color=yellow&style=for-the-badge"/></a>
   
 [twitter]: https://twitter.com/samarpan__rai
 [linkedin]: https://www.linkedin.com/in/samarpan-rai-809a5a293/
-</p>
+
 
 <br>
 
