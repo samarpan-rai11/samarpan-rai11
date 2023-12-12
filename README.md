@@ -16,7 +16,7 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />         
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" />
