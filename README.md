@@ -30,12 +30,11 @@
 <br />
 
 <br/>
-🔭 I’m currently working on Django
 <br/>
-🌱 I’m currently learning ML
 
 
 [![Samarpan’s github stats](https://github-readme-stats.vercel.app/api?username=samarpan-rai11)](https://github.com/samarpan-rai11)
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samarpan-rai11&layout=compact)](https://github.com/samarpan-rai11)
 
