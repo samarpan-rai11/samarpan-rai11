@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-<!--
-**samarpan-rai11/samarpan-rai11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Image of https://github.com/samarpan-rai11/my-profile-views-counter](https://github.com/samarpan-rai11/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/samarpan-rai11/my-profile-views-counter)
+**`Developer`**
 
+<p align="center">
+  <a href="https://github.com/samarpan-rai11/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/samarpan-rai11-profile-views"/></a>
+</p>
 Here are some ideas to get you started:
 
 ###🔭 I’m currently working on Django
