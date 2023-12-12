@@ -1,11 +1,10 @@
 # 🥟 Samarpan Rai
--
 
 **`Developer`**
 
 <p align="center">
   <a href="https://github.com/samarpan-rai11/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src=""/></a>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=samarpan-rai11&label=Profile%20views&color=0e75b6&style=flat"/></a>
 </p>
 
 <br>
