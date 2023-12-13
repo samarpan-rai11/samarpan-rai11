@@ -1,6 +1,6 @@
 # 🥟 Samarpan Rai
 
-**`Developer`**
+**`Developer|Student`**
 
 👋 Hey there! 👨‍💻 Welcome to my corner of the internet. I'm a code enthusiast on a mission to turn ideas into reality. Dive into my GitHub repositories to discover the projects I'm tinkering with. Let's explore the world of possibilities together! 🌐
 
