@@ -23,7 +23,11 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" alt="Scikit Learn" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 <img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" />
+
+
+          
 <br />
 
 <br/>
