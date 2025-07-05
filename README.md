@@ -4,9 +4,10 @@
 
 👋 Hey there! 👨‍💻 Welcome to my corner of the internet. I'm a code enthusiast on a mission to turn ideas into reality. Dive into my GitHub repositories to discover the projects I'm tinkering with. Let's explore the world of possibilities together! 🌐
 
-<img src="https://komarev.com/ghpvc/?username=samarpan-rai11&label=Profile%20views&color=yellow&style=for-the-badge" alt="samarpan-rai" />
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarpan-rai-809a5a293/)
+
+[![linkedin](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/samarpanrai)
 
 ---
 
